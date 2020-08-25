@@ -136,3 +136,7 @@
     line-height: var(--font-large-line-height);
   }
 }
+
+p {
+  color: red;
+}
